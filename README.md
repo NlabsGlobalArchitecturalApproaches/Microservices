@@ -98,7 +98,7 @@ eHospital/
 
 ### Prerequisites
 
-- .NET 8 SDK
+- .NET 9 SDK
 - Docker Desktop
 - PostgreSQL
 - MongoDB
