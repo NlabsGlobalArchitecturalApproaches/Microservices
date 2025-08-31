@@ -22,7 +22,7 @@
 ### Core Technologies
 - **.NET 9** - Latest framework for high-performance applications
 - **Minimal APIs** - Lightweight, fast HTTP APIs
-- **Entity Framework Core 8** - Modern ORM for data access
+- **Entity Framework Core 9** - Modern ORM for data access
 - **PostgreSQL** - Primary database
 - **MongoDB** - Document storage for flexible data
 - **Redis** - Distributed caching and session management
